@@ -6,6 +6,14 @@ Bash utility functions can be used by simply sourcing the library script file to
 ```bash
 source bash-python-venv.sh
 ```
+or
+```bash
+echo 'source bash-python-venv.sh' >> ~/.bashrc
+```
+or
+```bash
+echo 'source bash-python-venv.sh' >> ~/.zshrc
+```
 
 # Usage
 General Usage:
