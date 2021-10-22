@@ -11,10 +11,10 @@ source bash-python-venv.sh
 General Usage:
 `>> venv [install|create|activate|deactivate]`
 
-`install`- install virtualenv using pip
-`create` - create virtual environment
-`activate`  - before start installing or using packages in virtual environment need to activate it
-`deactivate` - deactivate virtual environment
+- `install`- install virtualenv using pip
+- `create` - create virtual environment
+- `activate`  - before start installing or using packages in virtual environment need to activate it
+- `deactivate` - deactivate virtual environment
 
 
 
